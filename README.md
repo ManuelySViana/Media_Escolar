@@ -49,9 +49,9 @@ O sistema deverá calcular a média e mostrar:
 
 ### Desafio
 
-- [ ] Adicionar uma quarta nota
-- [ ] Mostrar a maior nota
-- [ ] Mostrar a menor nota
-- [ ] Informar quantos pontos faltaram para aprovação
+- [X] Adicionar uma quarta nota
+- [X] Mostrar a maior nota
+- [X] Mostrar a menor nota
+- [X] Informar quantos pontos faltaram para aprovação
 - [ ] Adiconar um campo para frequência
 - [ ] Reprovar o aluno que tiver frequência menor que 75%
